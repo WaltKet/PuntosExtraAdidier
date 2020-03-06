@@ -1,0 +1,26 @@
+﻿  SDL_2 Adidier.cpp
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(135): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(157): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(209): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(216): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(238): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(320): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(321): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(322): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(323): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(324): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(325): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(326): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(327): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(351): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(352): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(353): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(354): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(355): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(356): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(357): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(358): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(376): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\walte\source\repos\SDL_2 Adidier\SDL_2 Adidier\SDL_2 Adidier.cpp(377): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SDL_2 Adidier.vcxproj -> C:\Users\walte\source\repos\SDL_2 Adidier\Debug\SDL_2 Adidier.exe
